@@ -1,2 +1,2 @@
-# VSW_Mods
+# Mods for Voron SW
 
