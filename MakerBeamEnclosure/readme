@@ -10,17 +10,7 @@ Required extrusions for full enclosure:
 6x MakerBeamXL 490mm (vertical extrusions x4 + top front-to-back extrusions x2)
 2x MakerBeamXL 360mm (top front & top rear) 
 
-The width of the switchwire is 360mm, the length is 520mm and height is 490mm. 
-Because we blindjoint all the makerbeams, the ones that goes on the length needs to be 490mm just like the ones that are vertical as the 
-vertical extrusions themselves removes 15mm from each side (520-30 = 490) of the top extrusion. Because we attach the vertical extrusions on the 
-side the ones on the top front and top rear stay 360mm. 
 
-Estimated cost as of 2021-09-27:
-
-8x 500mm extrusions      = 52eu
-8x cuts                  = 24eu
-Tot (excluding shipping) = 76eu
-----------------------------------------------------------------------------------------------------
 
 
 
