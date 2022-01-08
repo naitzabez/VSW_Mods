@@ -19,5 +19,5 @@ Required extrusions for full enclosure:
 2x MakerBeamXL 360mm (top front & top rear) 
 
 
-The clips that hold allt the panels are using magnets for quick removal. If you wish to use screwed clips you may want to edit some of the skirts to add inserts. The 15-30 joint is what mates the 1515 extrusions & 3030 extrusions on the top. 
+The clips that hold all the panels are using magnets for quick removal. If you wish to use screwed clips you may want to edit some of the skirts to add inserts. The 15-30 joint is what mates the 1515 extrusions & 3030 extrusions on the top. 
 
