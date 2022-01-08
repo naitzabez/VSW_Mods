@@ -13,7 +13,7 @@ The mod does NOT require you to modify your existing Switchwire frame. The extru
 
 I don't like the default VHB enclosure, i want something more rigid. MakerbeamXL 1515 extrusions are cheap and small, perfect for supporting an enclosure. 
 
-------------------------------------------- MAKERBEAM ----------------------------------------------
+
 Required extrusions for full enclosure:
 6x MakerBeamXL 490mm (vertical extrusions x4 + top front-to-back extrusions x2)
 2x MakerBeamXL 360mm (top front & top rear) 
