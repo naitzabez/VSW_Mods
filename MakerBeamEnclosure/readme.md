@@ -1,6 +1,6 @@
 ![alt text](https://i.imgur.com/Zyoowuh.png)
-![alt text](https://i.imgur.com/b2BavKV.jpg)
-![alt text](https://i.imgur.com/YaYfIVW.jpg)
+![alt text](https://i.imgur.com/b2BavKV.png)
+![alt text](https://i.imgur.com/YaYfIVW.png)
 ------------------------------------------- IMPORTANT ----------------------------------------------
 This mod will extend the width of your existing switchwire by roughly 4cm. 
 The mod does NOT require you to modify your existing Switchwire frame. The extrusions bolt onto it. 
